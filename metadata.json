@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 材料智能选材与替代推荐系统",
+  "description": "专业级工业金属材料选材工作台，根据客户提供的牌号、执行标准、化学成分及力学性能指标，智能匹配公司内部产品数据库并推荐相近替代方案与成分性能对比分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
